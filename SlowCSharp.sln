@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlowCSharp", "SlowCSharp\SlowCSharp.csproj", "{435EEA7A-98EB-4A2A-9C6E-4A3CA3092C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{435EEA7A-98EB-4A2A-9C6E-4A3CA3092C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{435EEA7A-98EB-4A2A-9C6E-4A3CA3092C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{435EEA7A-98EB-4A2A-9C6E-4A3CA3092C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{435EEA7A-98EB-4A2A-9C6E-4A3CA3092C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
